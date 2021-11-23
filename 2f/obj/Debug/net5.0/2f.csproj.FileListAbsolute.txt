@@ -1,0 +1,16 @@
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.exe
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.deps.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.runtimeconfig.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.runtimeconfig.dev.json
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\ref\2f.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\bin\Debug\net5.0\2f.pdb
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.csproj.AssemblyReference.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.AssemblyInfoInputs.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.AssemblyInfo.cs
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.csproj.CoreCompileInputs.cache
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\ref\2f.dll
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.pdb
+C:\Users\LenY\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\School\11.b\Programozás Gyakorlat\GAMF\2f\obj\Debug\net5.0\2f.genruntimeconfig.cache
