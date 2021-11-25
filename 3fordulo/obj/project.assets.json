@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3f\\3f.csproj",
+      "projectUniqueName": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3fordulo\\3f.csproj",
       "projectName": "3f",
-      "projectPath": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3f\\3f.csproj",
+      "projectPath": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3fordulo\\3f.csproj",
       "packagesPath": "C:\\Users\\LenY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3f\\obj\\",
+      "outputPath": "C:\\Users\\LenY\\OneDrive - Bajai SZC Türr István Gazdasági Szakgimnáziuma\\School\\11.b\\Programozás Gyakorlat\\GAMF\\3fordulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LenY\\AppData\\Roaming\\NuGet\\NuGet.Config",
