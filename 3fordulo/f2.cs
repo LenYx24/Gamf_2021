@@ -36,14 +36,6 @@ namespace _3f
             Console.WriteLine("--------------------");
             Console.WriteLine("f2");
             main();
-            // Sorbarendeztem, hogy könnyebb legyen keresni a words között/tesztelni
-            /*
-            List<string> ordered = words.OrderBy(q => q).ToList();
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine($"{i}:{ordered[i]}");
-            }
-            */
             Console.WriteLine($"a: {words.Count}");
             Console.WriteLine($"b: {b}");
             List<string> clista = c();
@@ -53,6 +45,7 @@ namespace _3f
                 Console.WriteLine($"{clista[i]}");
             }
         }
+        // Visszaadja, hogy a words listában melyik indextől kezdődnek és végződnek a letter kezdőbetűs szavak
         public static int[] getIndex(char letter){
             int[] indexes = {-1,-1};
             for(int i = 0; i < partsInWords.Count; i++){
@@ -86,7 +79,7 @@ namespace _3f
                         palindromok.Add(words[i]);
                     }
                     else{
-                        int[] indexes = getIndex(words[i][0]);
+                        int[] indexes = getIndex(reverse[0]);
                         if(indexes[0] == -1) continue;
                         for (int j = indexes[0]; j <= indexes[1]; j++)
                         {
