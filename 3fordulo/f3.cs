@@ -30,7 +30,8 @@ namespace _3f
         }
 
         /*    
-            Első feladat: Pitagoraszi számhármasok száma, ha a = 15 és b legfejebb = 1000000;
+            Első feladat: Hány ilyen pitagoraszi számhármas van.
+            Kikötés: a = 15; b <= 1.000.000
         */
 
         static void feladatA(ulong a, bool giveOutput) {
@@ -56,7 +57,8 @@ namespace _3f
         }
 
         /*
-            Második feladat: Az a feladatban 
+            Második feladat: Pitagoraszi hármasok számainak összeszorzása.
+            Kérdés: Melyik a legnagyobb szorzat ami még kisebb mint 1.000.000
         */
 
         static void feladatB() {
@@ -73,6 +75,12 @@ namespace _3f
             }
             Console.WriteLine("-----------------\nLegnagyobb számhármas szozata: " + legnagyobb);
         }
+
+        /*
+            Harmadik feladat: Keress olyan pitagoraszi hármasokat amelyek oldalainak összege 2400.
+            Kérdés: Hány ilyen hármas van?
+            Kikötés: Ugyan azok a számok különböző sorrendben nem érvényesek.
+        */
 
         static void feladatC() {
             int counter = 0;
