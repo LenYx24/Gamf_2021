@@ -24,7 +24,7 @@ namespace _3f
         static bool debug = false;
         public static void output(){
             Console.WriteLine("--------------------");
-            feladatA(15, true);
+            feladatA(15, 1000000, true);
             feladatB();
             feladatC();
         }
@@ -34,8 +34,8 @@ namespace _3f
             Kikötés: a = 15; b <= 1.000.000
         */
 
-        static void feladatA(ulong a, bool giveOutput) {
-            for (ulong b = 1; b < 1000000; b++) {
+        static void feladatA(ulong a, ulong bMax, bool giveOutput) {
+            for (ulong b = 1; b < bMax; b++) {
                 ulong cnegyzet = a*a+b*b;
                 if (debug) Console.WriteLine("Sqr:" + cnegyzet.ToString());
 
@@ -63,13 +63,16 @@ namespace _3f
 
         static void feladatB() {
             int legnagyobb = 0;
+            for (ulong a = 10; a < 1500; a++) {
+                feladatA(a, 10000, false);
+            }
             for (int i = 0; i < harmasok.Count; i++) {
                 ulong szorzat = 0;
                 if (i < harmasok.Count) {
                     szorzat = harmasok[i].a * harmasok[i].b * harmasok[i].c;
                 }
                 if (debug) Console.WriteLine((i+1) + ". szorzat: " + szorzat + "(" + harmasok[i].a + " * " + harmasok[i].b + " * " + harmasok[i].c + ")");
-                if (legnagyobb < (int)szorzat) {
+                if (legnagyobb < (int)szorzat && szorzat < 1000000) {
                     legnagyobb = (int)szorzat;
                 }
             }
